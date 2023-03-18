@@ -7,7 +7,7 @@ hero:
 
   tagline:
   image:
-    src: /images/coco.png
+    src: /coco.png
     alt: 网页的logo图标
   # actions:
   #   - theme: brand
