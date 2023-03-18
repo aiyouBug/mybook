@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/mybook/',
+  // base: '/mybook/',
   title: "我的笔记",
   description: "A VitePress Site",
   themeConfig: {
@@ -11,7 +11,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: '一些积累', link: '/markdown-examples' }
     ],
-    
+
 
     // sidebar: [
     //   {
