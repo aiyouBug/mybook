@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Guard UI
+  name: aaaa
   text: A semantic web component library
   tagline: Committed to standardize authentication flow
   # image:
