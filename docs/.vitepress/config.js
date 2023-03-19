@@ -1,5 +1,5 @@
 export default {
-  title: "Guard UI",
+  title: "Test",
   base: "/mybook/",
   themeConfig: {
     siteTitle: "Guard UI",
