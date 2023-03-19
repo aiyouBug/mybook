@@ -7,7 +7,7 @@ hero:
   tagline:
   image:
     src: ./images/coco.png
-    alt: Guard UI
+    alt: 头像
   # actions:
   #   - theme: brand
   #     text: Get Started
@@ -21,8 +21,10 @@ features:
     title: 学习笔记
     details: 一些学习记录.
     link: /guide/
-  - title: 疑难杂症
+  - icon: 🛠
+    title: 疑难杂症
     details: 环境等问题相关解决方案.
-  - title: 三方累计
+  - icon: 💡
+    title: 三方累计
     details: 一些好用的三方
 ---
