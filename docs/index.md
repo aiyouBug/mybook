@@ -2,31 +2,27 @@
 layout: home
 
 hero:
-  name: 记录一下
-  text:
-
-  tagline:
-  image:
-    src: /coco.png
-    alt: 网页的logo图标
-  # actions:
-  #   - theme: brand
-  #     text: 开始使用
-  #     link: /guide/start
-  #   - theme: alt
-  #     text: 在 GitHub 上查看
-  #     link: https://github.com/ox4f5da2
+  name: Guard UI
+  text: A semantic web component library
+  tagline: Committed to standardize authentication flow
+  # image:
+  #   src: ./images/guard_index.png
+  #   alt: Guard UI
+  actions:
+    - theme: brand
+      text: Get Started
+      link: /guide/
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/lancemao/guardui
 
 features:
-  - icon: 🛠️
-    title: 疑难杂症
-    details: 开发中遇到的问题
-    link: /guide/start
-    # linkText: 了解更多
-  - icon: 💻
-    title: 编程相关
-    details: 主要是大前端
-  - icon: ⛰
-    title: 三方积累
-    details: goto github
+  - title: Quick integration
+    details: Build authentication page with only a few lines of code. Experience fast development like never before.
+  - title: Easy for customization
+    details: Build your own page with our atomic components. Use our simple APIs to customize your UI and auth flow.
+  - title: Web component
+    details: Based on W3C's web component standard.
+  - title: Light-weight
+    details: No 3rd party dependency, No framework. Minimized size only a few KB.
 ---
