@@ -34,13 +34,13 @@ At it's core, Guard UI leverages the idea of semantic programming. So in order t
 
 ```html
 <script type="module">
-  import { Guard } from 'https://unpkg.com/guard-ui/dist/index.mjs'
+  import { Guard } from "https://unpkg.com/guard-ui/dist/index.mjs";
 
-  const guard = await Guard.initialize({appId: "62ac18c93134e5fafcd29435"});
-  guard.on('login', (code, message, userInfo) => {
+  const guard = await Guard.initialize({ appId: "62ac18c93134e5fafcd29435" });
+  guard.on("login", (code, message, userInfo) => {
     if (code === 200) {
       console.log(userInfo);
-      guard.message.success('Welcome! ' + userInfo.nickname);
+      guard.message.success("Welcome! " + userInfo.nickname);
     } else {
       guard.message.error(message);
     }
@@ -50,12 +50,11 @@ At it's core, Guard UI leverages the idea of semantic programming. So in order t
 
 ## 📚 Documentation
 
-To check out live examples and docs, visit [docs](https://lancemao.github.io/guardui/)
+To check out live examples and docs, visit [docs](https://lancemao.github.io/mybook/)
 
 ## ❓ Questions
 
 For questions and support please use the [official forum](https://forum.authing.cn/). The issue list of this repo is exclusively for bug reports and feature requests.
-
 
 ## 🤝 Contribution
 
@@ -103,4 +102,3 @@ Thank you to all the people who already contributed to Guard UI!
 ## 🎁 License
 
 [MIT](https://opensource.org/licenses/MIT)
-

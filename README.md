@@ -19,28 +19,27 @@ A semantic UI component library based on W3C's web component standard.
 ## 🖥 Browser Support
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Safari |
-| --- | --- | --- | --- |
-| 79+ | 63+ | 61+ | 10.1+ |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 79+                                                                                                                                                                                                  | 63+                                                                                                                                                                                                              | 61+                                                                                                                                                                                                          | 10.1+                                                                                                                                                                                                        |
 
 ## ✨ Features
 
-* General UI components like Ant / Element UI
-* Drop-in authentication related components
-* Flexible for customization
+- General UI components like Ant / Element UI
+- Drop-in authentication related components
+- Flexible for customization
 
 ## 👨‍💻 Development
 
-* open this repo in vscode
-* install Live Server Extension for vscode
-* run npm i
-* open /example/index.html
-* cmd+shit+p and enter live server
-* start live server at localhost and have fun!
+- open this repo in vscode
+- install Live Server Extension for vscode
+- run npm i
+- open /example/index.html
+- cmd+shit+p and enter live server
+- start live server at localhost and have fun!
 
 ## 📚 Documentation
 
-To check out live examples and docs, visit [docs](https://lancemao.github.io/guardui/)
-
+To check out live examples and docs, visit [docs](https://lancemao.github.io/mybook/)
 
 ## 🤝 Contribution
 
@@ -55,4 +54,3 @@ Thank you to all the people who already contributed to Guard UI!
 ## 🎁 License
 
 [MIT](https://opensource.org/licenses/MIT)
-

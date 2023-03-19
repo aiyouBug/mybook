@@ -14,7 +14,7 @@ hero:
       link: /guide/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/lancemao/guardui
+      link: https://github.com/lancemao/mybook
 
 features:
   - title: Quick integration

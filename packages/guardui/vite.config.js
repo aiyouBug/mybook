@@ -1,11 +1,11 @@
-import { defineConfig } from 'vite'
+import { defineConfig } from "vite";
 
 export default defineConfig({
   build: {
     lib: {
-      entry: './src/guardui.js',
-      fileName: 'index',
-      formats: ['es']
-    }
-  }
-})
+      entry: "./src/mybook.js",
+      fileName: "index",
+      formats: ["es"],
+    },
+  },
+});
