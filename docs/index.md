@@ -2,27 +2,27 @@
 layout: home
 
 hero:
-  name: aaaa
-  text: A semantic web component library
-  tagline: Committed to standardize authentication flow
-  # image:
-  #   src: ./images/guard_index.png
-  #   alt: Guard UI
-  actions:
-    - theme: brand
-      text: Get Started
-      link: /guide/
-    - theme: alt
-      text: View on GitHub
-      link: https://github.com/lancemao/mybook
+  name: 我的随笔
+  text: 一些积累
+  tagline:
+  image:
+    src: ./images/coco.png
+    alt: Guard UI
+  # actions:
+  #   - theme: brand
+  #     text: Get Started
+  #     link: /guide/
+  #   - theme: alt
+  #     text: View on GitHub
+  #     link: https://github.com/lancemao/mybook
 
 features:
-  - title: Quick integration
-    details: Build authentication page with only a few lines of code. Experience fast development like never before.
-  - title: Easy for customization
-    details: Build your own page with our atomic components. Use our simple APIs to customize your UI and auth flow.
-  - title: Web component
-    details: Based on W3C's web component standard.
-  - title: Light-weight
-    details: No 3rd party dependency, No framework. Minimized size only a few KB.
+  - icon: 💻
+    title: 学习笔记
+    details: 一些学习记录.
+    link: /guide/
+  - title: 疑难杂症
+    details: 环境等问题相关解决方案.
+  - title: 三方累计
+    details: 一些好用的三方
 ---
